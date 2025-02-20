@@ -1,22 +1,19 @@
 # Sistem Absensi Karyawan
-Sistem Absensi karyawan ini merupakan project pribadi untuk pembelajaran saya dalam menggunakan framework codeigniter, fitur yang ada didalamnya masih sederhana.
+Aplikasi Absensi Karyawan menggunakan Codeigniter 3
 ## Fitur
 Fitur di sistem ini yakni :
-> - Sistem login
-> - Sistem Absen masuk dan keluar
-> - Managemen data user
-> - Managemen data karyawan
-> - Managemen data absensi
-## Software 
-> - Linux Mint 19.2 tina
-> - Visual Studio Code 1.39.2
-> - Google Chrome
-> - Xampp
+> - Login & Logout
+  - Dashboard
+  - Manajemen data Karyawan
+> - Absen masuk dan keluar karyawan
+> - Riwayat Kehadiran Karyawan
+> - Laporan absensi karyawan
 ## System
 > - Php 7.2.24
 > - Codeigniter 3.1.10
 ### Username dan password
-> - Username : sandy
-> - Password : 1234
+  Admin
+> - Username : admin
+> - Password : 123
 
 
